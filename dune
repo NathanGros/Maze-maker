@@ -1,0 +1,3 @@
+(executable
+    (name maze_maker)
+    (libraries raylib))
