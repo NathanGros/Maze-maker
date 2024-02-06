@@ -1,7 +1,9 @@
 Maze generator using Eller's algorythm
 
 
-Compiled with dune,
+Ocaml language
+
+Compiled with dune
 
 libraries : raylib
 
